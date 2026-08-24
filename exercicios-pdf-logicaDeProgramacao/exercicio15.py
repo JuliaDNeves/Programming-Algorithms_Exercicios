@@ -6,4 +6,4 @@ subtotal = precoUnitario * qnt
 
 total = subtotal + frete
 
-print(f"Preço Unitário: {precoUnitario}\nQuantidade: {qnt}\nFrete: {frete}\nSubtotal: {subtotal}\nValor Final: {total}")
+print(f"O valor final de sua compra é: {total}")
