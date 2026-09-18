@@ -1,3 +1,6 @@
+print ("Este programa irá identificar se um número é positivo, negativo ou igual a zero")
+print ("--------------------------------\n")
+
 num = int(input("Digite um número: "))
 
 if num >= 1:
